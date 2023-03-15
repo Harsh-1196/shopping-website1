@@ -9,10 +9,6 @@ body {
   max-width: 1200px;
   margin: 0 auto;
 }
-.logo {
-  width: 110px;
-  transition: width 0.3s;
-}
 header {
   display: flex;
   justify-content: space-between;
@@ -291,9 +287,6 @@ nav ul li a:hover:before {
   font-size: 4.3em;
 }
 
-.logo:hover {
-  width: 120px;
-}
 
 /* overlay animation 
 
